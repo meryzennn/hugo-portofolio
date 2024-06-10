@@ -15,7 +15,7 @@ draft = false
 ### **HDD** = Seagate Barracuda Compute 2 TB 3.5" 7200 RPM Internal Hard Drive
 ### **Video Card** = RTX 3050 8GB OC IGame white edition
 ### **Power Supply** = FSP Group HV PRO 550W 80+ 
-### **OS** = Microsoft Windows 11 Pro OEM - DVD 64-bit
+### **OS** = Microsoft Windows 11 Pro 64-bit
 ### **Main Monitor** = ViewSonic VX2418C 24.0" 1920 x 1080 165 Hz
 ### **Second Monitor Vertical** = Samsung S24R350 23.8" 1920 x 1080 75 Hz Monitor
 ---
