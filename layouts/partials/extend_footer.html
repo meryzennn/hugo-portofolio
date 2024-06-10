@@ -1,0 +1,11 @@
+<footer class="footer">
+    {{- if site.Copyright }}
+    <span>{{ site.Copyright | markdownify }}</span>
+    {{- else }}
+    <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
+    <span> | <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="external nofollow noopener noreferrer">CC BY-NC-SA 4.0 <!-- (&#127341;&#127343;&#127247;&#127246;) --></a> | <a href="/privacy" rel="privacy-policy">Privacy Policy</a> | <a href="/disclaimer">Disclaimer</a> | <a href="https://status.hiiruki.dev/">Status</a></span>
+    <br>
+</footer>
+{{- end }}
+
+
