@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on meryzennn</title>
+    <link>http://localhost:1313/project/</link>
+    <description>Recent content in Projects on meryzennn</description>
+    <generator>Hugo -- 0.127.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D Animation for Sayingth!ngs Advertising</title>
+      <link>http://localhost:1313/project/project/</link>
+      <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/project/</guid>
+      <description> 3D Animation Advertising I created a 3D model for a sayingthings animation advertisement using Blender, and it took me personally one week to complete. Client: Sayingth!ngs Directed By: Nicki Agency: COI Communications 3D Lead: holikpc 3D Assets: me.ryzen &amp;amp; holikpc 3D Animator: strioaji_ </description>
+    </item>
+    <item>
+      <title>Mechanical </title>
+      <link>http://localhost:1313/project/mechanical/</link>
+      <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/mechanical/</guid>
+      <description> Mechanical with @strioaji_ </description>
+    </item>
+    <item>
+      <title>Nft Expoverse on LA</title>
+      <link>http://localhost:1313/project/nft-expo-la/</link>
+      <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/nft-expo-la/</guid>
+      <description> tan69dao @ NFT Expoverse </description>
+    </item>
+    <item>
+      <title>Otong Liquid Image Promotion</title>
+      <link>http://localhost:1313/project/liqot/</link>
+      <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/liqot/</guid>
+      <description> OTONG LIQUID </description>
+    </item>
+  </channel>
+</rss>
