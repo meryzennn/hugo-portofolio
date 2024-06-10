@@ -78,7 +78,7 @@ params:
     - name: discord
       url: "https://discord.gg/XV9bjGxwD5"
     - name: ethereum
-      url: "https://etherscan.io/address/0x070bE21110950C68672f2ba2A733861C2A371398"
+      url: "https://etherscan.io/address/0x8e64c61Dd49cfa253673Fe78a67980e1d93F408c"
     - name: instagram
       url: "https://www.instagram.com/me.ryzen/"
     - name: sociabuzz - Donate
