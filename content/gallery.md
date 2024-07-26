@@ -1,8 +1,14 @@
 ---
 title: "Gallery"
-date: 2024-06-14
+date: 2024-07-26
 draft: 
 ---
+
+---
+# Modena | [Instagram🔗](https://www.instagram.com/p/C93pIyih0tY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+![Scenario 1: Modena](/images/mao1-final.webp)
+---
+
 
 ---
 # Girl In My Dream | [Instagram🔗](https://www.instagram.com/p/C8MuE_8hn7_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==/)
