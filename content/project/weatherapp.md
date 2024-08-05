@@ -7,6 +7,8 @@ draft:
 
 ---
 # Weather app using java script
+[Link🔗](https://weather-app-one-peach-66.vercel.app)
+
 ![Scenario 1: weather](/images/ss1.webp)
 ![Scenario 1: weather](/images/ss2.webp)
 
@@ -76,9 +78,6 @@ If you'd like to contribute to this project, please follow these steps:
 
 ## Contact
 
-If you have any questions or feedback, feel free to contact me at (mailto:me.ryzennn@gmail.com) or visit my [website](https://meryzennn.xyz).
+If you have any questions or feedback, feel free to contact me at me.ryzennn@gmail.com or visit my [website](https://meryzennn.xyz).
 
-
-
-[Link🔗](https://weather-app-one-peach-66.vercel.app)
 ---
