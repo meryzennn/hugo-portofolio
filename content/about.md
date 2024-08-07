@@ -12,7 +12,7 @@ When I'm not creating 3D art or studying, I enjoy exploring virtual reality, pla
 
 Thank you for visiting my site! Feel free to explore my portfolio to see some of my work, and don't hesitate to reach out if you would like to collaborate or learn more about my journey.
 
-📩<a href="mailto:me.ryzennn@gmail.com">
+📩[Email](mailto:me.ryzennn@gmail.com)
 
 ***Best regards,  
 meryzennn***
