@@ -27,7 +27,6 @@ Features
 
 1. **Clone the Repository**
    ```markdown
-   bash
    https://github.com/meryzennn/weather-app.git
    ```
 
