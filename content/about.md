@@ -17,10 +17,3 @@ Thank you for visiting my site! Feel free to explore my portfolio to see some of
 ***Best regards,  
 meryzennn***
 
-<div align="right">
-  <a href="https://open.spotify.com/user/31jpcosyoyaiqtrti2ej2bgsetky">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jpcosyoyaiqtrti2ej2bgsetky&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
