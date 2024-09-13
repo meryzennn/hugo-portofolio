@@ -118,7 +118,7 @@ menu:
   main:
     - identifier: gallery
       name: Gallery🖼️
-      url: /gallery
+      url: https://gallery-meryzennn.vercel.app
       weight: 4
     - identifier: project
       name: Project📦
