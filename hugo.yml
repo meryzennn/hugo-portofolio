@@ -81,8 +81,8 @@ params:
       url: "https://etherscan.io/address/0x8e64c61Dd49cfa253673Fe78a67980e1d93F408c"
     - name: instagram
       url: "https://www.instagram.com/me.ryzen/"
-    - name: sociabuzz - Donate
-      url: "https://sociabuzz.com/notryzen/tribe"
+    - name: my documentation
+      url: "https://meryzennn-docs.vercel.app/"
     
 
   analytics:
