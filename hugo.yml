@@ -15,8 +15,6 @@ minify:
   disableXML: true
   minifyOutput: true
 
-
-
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: meryzennn
@@ -83,7 +81,6 @@ params:
       url: "https://www.instagram.com/me.ryzen/"
     - name: my documentation
       url: "https://meryzennn-docs.vercel.app/"
-    
 
   analytics:
     google:
@@ -118,7 +115,7 @@ menu:
   main:
     - identifier: gallery
       name: Gallery🖼️
-      url: https://gallery-meryzennn.vercel.app
+      url: https://0x5zen-gallery.vercel.app
       weight: 4
     - identifier: project
       name: Project📦
